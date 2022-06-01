@@ -1,3 +1,3 @@
 # Merge-Conflict
 
-## we added this
+## This is a subheading created on GitHub
